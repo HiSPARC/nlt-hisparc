@@ -15,4 +15,4 @@ description: Aanvullende materialen voor de NLT module kosmische straling.
 
 ---
 
-Broncode [op github](https://github.com/tomkooij/nlt-hisparc).
+Broncode [op github](https://github.com/hisparc/nlt-hisparc).
